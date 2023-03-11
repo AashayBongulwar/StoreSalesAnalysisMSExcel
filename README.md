@@ -20,3 +20,11 @@ Amazon, Flipkart and myntra combined bring in 80% of orders.
 For improving sales, target segment should be Female customer in the age group 30-49 living in Maharashtra, Karnataka and Uttar pradesh. Ads/offers on Amazon, Flipkart and Myntra can help further boost sales.
 
 
+Tools Used: PivotTables , Pivotchart 
+
+
+Excel file: https://1drv.ms/x/s!AsHeQjTL8zgvgRKxJeGRn9CchAo5?e=7uQS0X 
+
+
+Youtube Link: https://youtu.be/xH5kPguiRz8
+
